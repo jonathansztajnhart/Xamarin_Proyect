@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ABMCursos.Curso">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Cancelar" Clicked="Cancel_Clicked"/>
+        <ToolbarItem Text="Guardar" Clicked="Save_Clicked" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Text="{Binding CursoNombre}" x:Name="nomCurso" FontSize="Medium" Placeholder="Curso"></Entry>
+            <Editor Text="{Binding CursoDescripcion}" x:Name="descCurso" FontSize="Medium" AutoSize="TextChanges" Placeholder="descripción"></Editor>
+            <Button x:Name="btnEliminar" Text="Eliminar curso" VerticalOptions="Center" IsVisible="False"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
