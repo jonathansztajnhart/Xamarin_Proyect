@@ -1,0 +1,13 @@
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\Views\App.xaml.g.cs
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\Views\Curso.xaml.g.cs
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\ABMCursos.AssemblyInfoInputs.cache
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\ABMCursos.AssemblyInfo.cs
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\ABMCursos.dll
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\ref\ABMCursos.dll
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\ABMCursos.pdb
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\bin\Debug\netstandard2.0\ABMCursos.deps.json
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\bin\Debug\netstandard2.0\ABMCursos.dll
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\bin\Debug\netstandard2.0\ref\ABMCursos.dll
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\bin\Debug\netstandard2.0\ABMCursos.pdb
+C:\Users\jsztajnhart\Documents\TGV\Proyectos\Xamarin-Demo\ABMCursos\ABMCursos\ABMCursos\obj\Debug\netstandard2.0\XamlC.stamp
